@@ -80,4 +80,4 @@ plt.show()
 ![image](https://github.com/gpavana/EDGE-DETECTION/assets/118787343/89255595-bc54-4582-8e30-be96f21d6e74)
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
-](https://github.com/Kamaleshvelmurugan/Implementation-of-filter/blob/main/README.md)
+]
